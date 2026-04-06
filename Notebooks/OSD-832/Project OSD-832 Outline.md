@@ -6,7 +6,7 @@
 ### 1. Data Info
 - Dataset: [https://osdr.nasa.gov/bio/repo/data/studies/OSD-832]
 - Key Variables: [#scRNAseq, #spaceflight, #transcription, #age]
-- Format: [e.g., CSV / Image Time-lapse]
+- Format: [#raw.fasta.qz, #metadata, #multiQC]
 
 ### 2. Learning Objectives
 - AI Role: Senior Bioengineering Tutor.
