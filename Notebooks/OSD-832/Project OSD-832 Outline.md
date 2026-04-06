@@ -9,7 +9,7 @@
 - Format: [#raw.fasta.qz, #metadata, #multiQC]
 
 ### 2. Learning Objectives
-- AI Role: Senior Bioengineering Tutor.
+- Study: Spaceflights affect on the Extracellular Matrix (ECM) and cytoskeleton across different age groups
 - Constraint: Max 10 lines of code per block. 
 - Requirement: Every code block must be preceded by a "Physics/Biology Logic" explanation.
 
