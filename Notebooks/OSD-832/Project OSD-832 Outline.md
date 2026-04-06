@@ -4,8 +4,8 @@
 > - [ ] Blocked
 > - [ ] Review
 ### 1. Data Info
-- Dataset: [https://osdr.nasa.gov/bio/repo/data/studies/OSD-832
-- Key Variables: [e.g., p_drop, contact_angle, flow_rate]
+- Dataset: [https://osdr.nasa.gov/bio/repo/data/studies/OSD-832]
+- Key Variables: [#scRNAseq, #spaceflight, #transcription, #age]
 - Format: [e.g., CSV / Image Time-lapse]
 
 ### 2. Learning Objectives
