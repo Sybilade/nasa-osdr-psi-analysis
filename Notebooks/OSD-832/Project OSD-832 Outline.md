@@ -11,9 +11,8 @@
 ### 2. Learning Objectives
 - Study: Spaceflights affect on the Extracellular Matrix (ECM) and cytoskeleton across different age groups
 - Science: Spaceflight, cytoskeleton, and ECM contribution to immune dysregulation 
-- Coding: Every code block must be preceded by a "Physics/Biology Logic" explanation.
-
-### 3. Progress Log (The handover for the next day)
-- Day 1: Found the dataset. Established that surface tension dominates over gravity.
-- Day 2: Stuck on [Variable X] normalization.
-- Next Step: [The specific prompt for tomorrow]
+- Coding: Dimensionality reduction and VAE
+### 3. Progress Log
+- Session 1:
+	- Found the dataset. Established that surface tension dominates over gravity.
+	- Next Step:
